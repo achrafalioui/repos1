@@ -1,1 +1,2 @@
 le contenu de fichier_texte1.txt
+magasin
